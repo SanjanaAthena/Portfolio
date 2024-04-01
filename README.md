@@ -1,4 +1,8 @@
 # Portfolio
+
+View my site here:
+https://sanjana-athena-portfolio.netlify.app
+
 Description
 This project is a web application developed using HTML, CSS, and JavaScript. It incorporates various libraries to enhance functionality and aesthetics.
 
